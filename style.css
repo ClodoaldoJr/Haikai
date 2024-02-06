@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #afa96e;
+}
+
+.cabecalho {
+  gap: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  padding: 5rem;
+}
+
+nav ul {
+  gap: 2rem;
+  display: flex;
+  align-items: center;
+  color: #f5f4ed;
+  list-style: none;
+}
+
+div {
+  flex: ;
+}
+
+#imagemprincipal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.foto1 {
+  border: 1px solid white;
+  padding: 15px;
+}
+
+.foto2 {
+  margin-left: -7rem;
+}
